@@ -45,7 +45,7 @@ const ListScreen = ({ navigation }) => {
           name: 'Pikachu',
           category: 'Electric',
           imageUrl:
-              'https://dz3we2x72f7ol.cloudfront.net/expansions/151/en-us/SV3pt5_EN_60-2x.png',
+              'https://dz3we2x72f7ol.cloudfront.net/expansions/151/en-us/SV3pt5_EN_25-2x.png',
         },
       ],
     },
@@ -56,7 +56,7 @@ const ListScreen = ({ navigation }) => {
           name: 'Charmander',
           category: 'Fire',
           imageUrl:
-              'https://dz3we2x72f7ol.cloudfront.net/expansions/151/en-us/SV3pt5_EN_70-2x.png',
+              'https://dz3we2x72f7ol.cloudfront.net/expansions/151/en-us/SV3pt5_EN_4-2x.png',
         },
       ],
     },
@@ -255,8 +255,8 @@ const styles = StyleSheet.create({
     color: '#fff',
   },
   cardImage: {
-    width: 50,
-    height: 50,
+    width: 250,
+    height: 250,
     resizeMode: 'contain',
     marginRight: 10,
   },
